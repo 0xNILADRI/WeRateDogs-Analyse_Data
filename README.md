@@ -70,7 +70,7 @@ Analyze and visualize the wrangled data in wrangle_act.ipynb Jupyter Notebook. T
 
 # Conclusion
 
-		1.Report wrangle_report.pdf has been created that briefly describes the wrangling steps.
-		2.Report act_report.pdf communicates the insights and displays the visualizations produced from the wrangled data.
+Report wrangle_report.pdf has been created that briefly describes the wrangling steps.
+Report act_report.pdf communicates the insights and displays the visualizations produced from the wrangled data.
 
 
