@@ -8,7 +8,7 @@ The dataset that I'll be wrangling (and analyzing and visualizing) is the tweet 
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for me to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/niladrihere/Udacity-Data-Analyst-Project-05---Wrangle-And_Analyse-Data/master/dog-rates-social.jpg)
 
 #### Python libraries used : 
 		1.pandas
