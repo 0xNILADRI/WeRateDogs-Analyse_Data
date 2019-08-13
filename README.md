@@ -41,7 +41,7 @@ Each tweet's retweet count and favorite (i.e. "like") count at minimum, and any 
 	
 ## Assessing Data
 
-After gathering each of the above pieces of data, assess them visually and programmatically for quality and tidiness issues. We detect and document eight quality issues and two tidiness issues in wrangle_act.ipynb Jupyter Notebook. 
+After gathering each of the above pieces of data, assess them visually and programmatically for quality and tidiness issues. We detect and document eight quality issues and three tidiness issues in wrangle_act.ipynb Jupyter Notebook. 
 
 
 #### Key Points
