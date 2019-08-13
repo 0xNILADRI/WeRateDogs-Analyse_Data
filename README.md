@@ -68,7 +68,7 @@ To meet specifications, the issues that satisfy the below mentioned Key Points m
 
 Stored the clean DataFrame(s) in a CSV file with the main one named twitter_archive_master.csv.
 
-Analyze and visualize the wrangled data in wrangle_act.ipynb Jupyter Notebook. Three insights and one visualization has be produced.
+Analyze and visualize the wrangled data in wrangle_act.ipynb Jupyter Notebook. 
 
 
 # Conclusion
