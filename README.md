@@ -25,7 +25,7 @@ WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exc
 
 # Aim
 
-To wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. In addition gathering, then assessing and cleaning is done for generating crutial analyses and visualizations.
+To wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. In addition gathering, then assessing and cleaning is done for generating crucial analyses and visualizations.
 
 # Progress Outline
 
